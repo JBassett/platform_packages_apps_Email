@@ -1,4 +1,2 @@
-platform_packages_apps_Email
+Android Email Application For ThunderKat
 ============================
-
-ThunderKat Email Application
